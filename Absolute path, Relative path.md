@@ -58,9 +58,9 @@
 
 
 
+reference
 
+https://88240.tistory.com/122
 
-**출처: https://88240.tistory.com/122 [shaking blog]**
-
-**출처: https://mommoo.tistory.com/82 [개발자로 홀로 서기]**
+https://mommoo.tistory.com/82 
 
