@@ -105,12 +105,12 @@ console.log(variable); //또 변수선언함(에러)
 
 
 
+reference
 
+https://backstreet-programmer.tistory.com/76
 
-##### 자료 출처: https://backstreet-programmer.tistory.com/76
+https://velog.io/@xedni/Scope
 
-##### 자료 출처: https://velog.io/@xedni/Scope
+https://www.w3schools.com/js/js_scope.asp
 
-##### 자료 출처: https://www.w3schools.com/js/js_scope.asp
-
-##### 자료 출처: https://gmlwjd9405.github.io/2019/04/22/javascript-hoisting.html
+https://gmlwjd9405.github.io/2019/04/22/javascript-hoisting.html

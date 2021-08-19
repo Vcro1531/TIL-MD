@@ -59,13 +59,15 @@
 
 
 
-출처 : https://gist.github.com/ihoneymon/a28138ee5309c73e94f9
+reference
 
-출처 : https://techblog.woowahan.com/2553/
+https://gist.github.com/ihoneymon/a28138ee5309c73e94f9
 
-출처 : https://ujuc.github.io/2015/12/16/git-flow-github-flow-gitlab-flow/
+https://techblog.woowahan.com/2553/
 
-출처 : https://codingtrainee.tistory.com/156
+https://ujuc.github.io/2015/12/16/git-flow-github-flow-gitlab-flow/
 
-출처 : https://k39335.tistory.com/82
+https://codingtrainee.tistory.com/156
+
+https://k39335.tistory.com/82
 
