@@ -12,9 +12,7 @@
 
 
 
-### 1. INNER JOIN : 교집합
-
-![image-20210712215440009](C:\Users\user\AppData\Roaming\Typora\typora-user-images\image-20210712215440009.png)
+### 1. INNER JOIN : 조인
 
 ##### INNER JOIN은 ON 절과 함께 사용되며, ON 절의 조건을 만족하는 데이터만을 가져온다.
 
@@ -25,9 +23,15 @@ INNER JOIN TableB B ON
 A.key = B.key
 ```
 
-##### 	
+##### 
+
+### 2. OUTER JOIN : 아우터 조인
+
+#### 	-	LEFT OUTER JOIN
 
 
+
+# !!알맞은 그림, 제대로 된 내용 전달이 안될듯해 무기한 연기!!
 
 
 
@@ -42,3 +46,7 @@ https://pearlluck.tistory.com/46
 http://tcpschool.com/mysql/mysql_multipleTable_join
 
 https://blog.edit.kr/entry/Left-join-and-Left-outer-join-in-SQL-Server
+
+https://gent.tistory.com/376
+
+https://blog.codinghorror.com/a-visual-explanation-of-sql-joins/
