@@ -2,7 +2,7 @@
 
 > ### 타이포라 단축키 정리
 >
-> ### (Windows/Linux/macOS)
+> ### (Windows&Linux/macOS)
 
 
 
