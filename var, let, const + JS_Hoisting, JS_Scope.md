@@ -101,20 +101,12 @@ console.log(variable); //또 변수선언함(에러)
 
 
 
-
-
-
-
-<<<<<<< Updated upstream:var, let, const learn +js-scope, js-hoisting.md
-reference
-=======
 reference :
->>>>>>> Stashed changes:var, let, const + JS_Hoisting, JS_Scope.md
 
-https://backstreet-programmer.tistory.com/76
-
-https://velog.io/@xedni/Scope
-
-https://www.w3schools.com/js/js_scope.asp
-
-https://gmlwjd9405.github.io/2019/04/22/javascript-hoisting.html
+> https://backstreet-programmer.tistory.com/76
+>
+> https://velog.io/@xedni/Scope
+>
+> https://www.w3schools.com/js/js_scope.asp
+>
+> https://gmlwjd9405.github.io/2019/04/22/javascript-hoisting.html

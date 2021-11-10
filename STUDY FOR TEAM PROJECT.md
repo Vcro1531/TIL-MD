@@ -142,46 +142,49 @@
 
 
 
-**API reference**
+API reference :
 
-https://www.a-mean-blog.com/ko/blog/%ED%86%A0%EB%A7%89%EA%B8%80/_/API
-
-https://steemit.com/kr/@yahweh87/it-api
-
-https://moonspam.github.io/What-is-an-API/
-
-https://dev-dain.tistory.com/50
-
-
-
-**Rest API reference**
-
-https://papababo.tistory.com/entry/HTTP-METHOD-PUT-vs-PATCH-%EC%B0%A8%EC%9D%B4%EC%A0%90
-
-https://blog.npcode.com/2017/04/03/rest%EC%9D%98-representation%EC%9D%B4%EB%9E%80-%EB%AC%B4%EC%97%87%EC%9D%B8%EA%B0%80/
-
-https://meetup.toast.com/posts/92
-
-https://www.redhat.com/ko/topics/api/what-is-a-rest-api
+> https://www.a-mean-blog.com/ko/blog/%ED%86%A0%EB%A7%89%EA%B8%80/_/API
+>
+> https://steemit.com/kr/@yahweh87/it-api
+>
+> https://moonspam.github.io/What-is-an-API/
+>
+> https://dev-dain.tistory.com/50
+>
 
 
 
-**Status codes reference**
+Rest API reference :
 
-https://developer.mozilla.org/ko/docs/Web/HTTP/Status/100
+> https://papababo.tistory.com/entry/HTTP-METHOD-PUT-vs-PATCH-%EC%B0%A8%EC%9D%B4%EC%A0%90
+>
+> https://blog.npcode.com/2017/04/03/rest%EC%9D%98-representation%EC%9D%B4%EB%9E%80-%EB%AC%B4%EC%97%87%EC%9D%B8%EA%B0%80/
+>
+> https://meetup.toast.com/posts/92
+>
+> https://www.redhat.com/ko/topics/api/what-is-a-rest-api
+>
 
-https://ko.wikipedia.org/wiki/HTTP_%EC%83%81%ED%83%9C_%EC%BD%94%EB%93%9C
-
-https://httpstatuses.com/
 
 
+Status codes reference :
 
-**JWT reference**
+> https://developer.mozilla.org/ko/docs/Web/HTTP/Status/100
+>
+> https://ko.wikipedia.org/wiki/HTTP_%EC%83%81%ED%83%9C_%EC%BD%94%EB%93%9C
+>
+> https://httpstatuses.com/
+>
 
-https://jwt.io/introduction
 
-https://meetup.toast.com/posts/239
 
-https://velopert.com/2389
+JWT reference :
 
-https://ko.wikipedia.org/wiki/JSON_%EC%9B%B9_%ED%86%A0%ED%81%B0
+> https://jwt.io/introduction
+>
+> https://meetup.toast.com/posts/239
+>
+> https://velopert.com/2389
+>
+> https://ko.wikipedia.org/wiki/JSON_%EC%9B%B9_%ED%86%A0%ED%81%B0

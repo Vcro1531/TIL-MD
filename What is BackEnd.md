@@ -84,32 +84,32 @@
 
 
 
-reference
+reference :
 
-https://www.icia.co.kr/community/board/view/2/3/61
-
-https://www.jobkorea.co.kr/goodjob/tip/view?News_No=18678&schCtgr=120002&Page=7
-
-http://it.chosun.com/site/data/html_dir/2020/09/11/2020091100487.html
-
-http://wiki.hash.kr/index.php/%EB%B0%B1%EC%97%94%EB%93%9C
-
-http://blog.wishket.com/%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C-vs-%EB%B0%B1%EC%97%94%EB%93%9C-%EA%B0%9C%EB%85%90%EA%B3%BC-%EC%B0%A8%EC%9D%B4%EC%A0%90/
-
-https://java119.tistory.com/19
-
-https://burkui-developer.tistory.com/4
-
-https://velog.io/@nittre/Pros-and-Cons-of-JavaScript-%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8%EC%9D%98-%EC%9E%A5%EB%8B%A8%EC%A0%90
-
-https://milkoon1.tistory.com/33
-
-https://mylogcenter.tistory.com/9
-
-https://jjangsungwon.tistory.com/85
-
-https://hyoveemo.tistory.com/33
-
-https://seoyeonkk.tistory.com/entry/Nodejs-%EC%9D%98-%ED%8A%B9%EC%A7%95-%EB%B0%8F-%EC%9E%A5%EB%8B%A8%EC%A0%90
-
-https://junspapa-itdev.tistory.com/3
+> https://www.icia.co.kr/community/board/view/2/3/61
+>
+> https://www.jobkorea.co.kr/goodjob/tip/view?News_No=18678&schCtgr=120002&Page=7
+>
+> http://it.chosun.com/site/data/html_dir/2020/09/11/2020091100487.html
+>
+> http://wiki.hash.kr/index.php/%EB%B0%B1%EC%97%94%EB%93%9C
+>
+> http://blog.wishket.com/%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C-vs-%EB%B0%B1%EC%97%94%EB%93%9C-%EA%B0%9C%EB%85%90%EA%B3%BC-%EC%B0%A8%EC%9D%B4%EC%A0%90/
+>
+> https://java119.tistory.com/19
+>
+> https://burkui-developer.tistory.com/4
+>
+> https://velog.io/@nittre/Pros-and-Cons-of-JavaScript-%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8%EC%9D%98-%EC%9E%A5%EB%8B%A8%EC%A0%90
+>
+> https://milkoon1.tistory.com/33
+>
+> https://mylogcenter.tistory.com/9
+>
+> https://jjangsungwon.tistory.com/85
+>
+> https://hyoveemo.tistory.com/33
+>
+> https://seoyeonkk.tistory.com/entry/Nodejs-%EC%9D%98-%ED%8A%B9%EC%A7%95-%EB%B0%8F-%EC%9E%A5%EB%8B%A8%EC%A0%90
+>
+> https://junspapa-itdev.tistory.com/3

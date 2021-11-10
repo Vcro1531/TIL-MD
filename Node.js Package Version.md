@@ -26,21 +26,22 @@
 
 
 
-> **package.json에는 SemVer식 세 자리 버전 외에도 버전 앞에 ^이나 ~ 또는 <, > 같은 문자가 붙어 있다.**
+**package.json에는 SemVer식 세 자리 버전 외에도 버전 앞에 ^이나 ~ 또는 <, > 같은 문자가 붙어 있다.**
+
+**이 문자는 버전에는 포함되지 않지만 설치하거나 업데이트할 때 어떤 버전을 설치해야 하는지 알린다.**
+
+
+
+**알파나 베타 버전은 1.1.1-alpha.0 또는 2.0.0-beta.1 처럼 표시한다.** 
+
+**출시 직전의 패키지는 2.0.0-rc.0(Release Candidate)가 붙는 경우가 있다.**
+
+
+
+reference :
+
+> https://velog.io/@namezin/semantic-versioning
 >
-> **이 문자는 버전에는 포함되지 않지만 설치하거나 업데이트할 때 어떤 버전을 설치해야 하는지 알린다.**
-
-
-
-> **알파나 베타 버전은 1.1.1-alpha.0 또는 2.0.0-beta.1 처럼 표시한다.** 
+> Node.js 교과서 개정 2판
 >
-> **출시 직전의 패키지는 2.0.0-rc.0(Release Candidate)가 붙는 경우가 있다.**
-
-
-
-reference
-
-https://velog.io/@namezin/semantic-versioning
-
-Node.js 교과서 개정 2판
 

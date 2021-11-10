@@ -93,7 +93,6 @@
     	})
     ```
 
-    
 
 P.S.
 
@@ -101,10 +100,8 @@ Promise를 이해하기 위해선 비동기 처리에 대해 알아보는 것을
 
 
 
-
-
 reference :
 
-https://joshua1988.github.io/web-development/javascript/promise-for-beginners/
-
-https://developer.mozilla.org/ko/docs/Web/JavaScript/Reference/Global_Objects/Promise
+> https://joshua1988.github.io/web-development/javascript/promise-for-beginners/
+>
+> https://developer.mozilla.org/ko/docs/Web/JavaScript/Reference/Global_Objects/Promise

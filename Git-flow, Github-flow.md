@@ -59,14 +59,14 @@
 
 
 
-reference
+reference :
 
-https://gist.github.com/ihoneymon/a28138ee5309c73e94f9
-
-https://techblog.woowahan.com/2553/
-
-https://ujuc.github.io/2015/12/16/git-flow-github-flow-gitlab-flow/
-
-https://codingtrainee.tistory.com/156
-
-https://k39335.tistory.com/82
+> https://gist.github.com/ihoneymon/a28138ee5309c73e94f9
+>
+> https://techblog.woowahan.com/2553/
+>
+> https://ujuc.github.io/2015/12/16/git-flow-github-flow-gitlab-flow/
+>
+> https://codingtrainee.tistory.com/156
+>
+> https://k39335.tistory.com/82
