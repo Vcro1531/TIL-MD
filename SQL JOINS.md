@@ -31,22 +31,22 @@ A.key = B.key
 
 
 
-# !!알맞은 그림, 제대로 된 내용 전달이 안될듯해 무기한 연기!!
+# 아직 안채움
 
 
 
 reference : 
 
-https://sql-joins.leopard.in.ua/
-
-https://opentutorials.org/course/3884
-
-https://pearlluck.tistory.com/46
-
-http://tcpschool.com/mysql/mysql_multipleTable_join
-
-https://blog.edit.kr/entry/Left-join-and-Left-outer-join-in-SQL-Server
-
-https://gent.tistory.com/376
-
-https://blog.codinghorror.com/a-visual-explanation-of-sql-joins/
+> https://sql-joins.leopard.in.ua/
+>
+> https://opentutorials.org/course/3884
+>
+> https://pearlluck.tistory.com/46
+>
+> http://tcpschool.com/mysql/mysql_multipleTable_join
+>
+> https://blog.edit.kr/entry/Left-join-and-Left-outer-join-in-SQL-Server
+>
+> https://gent.tistory.com/376
+>
+> https://blog.codinghorror.com/a-visual-explanation-of-sql-joins/
