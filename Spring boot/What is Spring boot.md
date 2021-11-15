@@ -12,7 +12,9 @@
 
   * IoC에 대해 설명하기 전, [기본 문법 알아보기](https://github.com/dsmjimin/TIL-MD/blob/main/Spring%20boot/Class%2C%20Object%2C%20Instance.md)
 
-  * IoC(Inversion of Control)
+  * IoC(Inversion of Control)는 흔히 **제어의 역전**이라 불린다. 오브젝트 생성, 관계설정, 사용, 제거 등 **오브젝트** 전반에 걸친 모든 제어권을 프레임워크의 컨테이너에 넘기는 개념을 말한다. 참고로 위의 **오브젝트**를 '빈(Bean)'이라 칭한다.
 
+  * IoC를 사용하는 이유는 객체를 관리해주는 프레임워크와 내가 구현 하고자 하는 부분으로 역할과 관심을 분리해 응집도를 높이고 결합도를 낮추며, 이에 따라 변경에 유연한 코드를 작성 할 수 있는 구조가 될 수 있기 때문이다.
+  
     
 
