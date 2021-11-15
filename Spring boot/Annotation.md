@@ -10,6 +10,26 @@
 
 
 
+* ### 어노테이션(Annotation) 정리
+
+  * 의존성 주입 용도
+    * @Required
+    * @Autowired
+    * @Inject
+  * 컨트롤러 관련
+    * @Controller
+    * @RestController
+    * @RequestMapping
+    * @PathVariable
+    * @RequestBody
+    * @RequestParam
+    * @ResponseBody
+  * 데이터 접근 관련
+    * @Service
+    * @Repository
+
+
+
 
 
 reference : 
@@ -19,3 +39,7 @@ reference :
 > https://dejavuhyo.github.io/posts/spring-annotation/
 >
 > https://velog.io/@gillog/Spring-Annotation-%EC%A0%95%EB%A6%AC
+>
+> https://medium.com/@aaaalpooo/%EB%A7%8E%EC%9D%B4-%EC%93%B0%EB%8A%94-spring-framework-annotation-%EC%A0%95%EB%A6%AC-summary-of-annotations-frequently-used-in-spring-framework-935e1c1a4877
+>
+> https://gmlwjd9405.github.io/2018/12/02/spring-annotation-types.html
