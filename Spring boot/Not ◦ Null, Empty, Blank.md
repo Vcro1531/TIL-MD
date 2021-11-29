@@ -22,7 +22,8 @@
 
 ### @NotEmpty
 
-* NotNull과 똑같지만 "" 또한 허용하지 않는다.
+* NotNull과 똑같이 null 허용 X, "" 또한 허용하지 않는다.
+* String과 collection 타입에만 적용된다.
 
 
 
@@ -39,4 +40,4 @@ reference :
 
 > https://sanghye.tistory.com/36
 >
-> 
+> https://itcoin.tistory.com/499
