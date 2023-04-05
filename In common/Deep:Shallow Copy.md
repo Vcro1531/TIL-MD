@@ -1,6 +1,4 @@
-# Copy (Shallow/Deep)
-
-
+# # Copy (Shallow/Deep)
 
 ## Shallow copy (얕은 복사)
 
@@ -40,10 +38,6 @@ obj2.name	// 'test1'
 obj1 === obj2	// false
 ```
 
-
-
-reference : 
-
 * 원본 객체를 복사할 때, 해당 객체와 인스턴스 변수까지 복사하는 방식이다.
   * 복사된 객체는 완전히 독립적인 메모리를 차지한다. (복사한 후 값을 수정해도 기존 객체에는 영향을 끼치지 않음)
 * 전부를 복사하여 새 주소에 담기 때문에 참조 공유를 하지 않는다.
@@ -51,17 +45,10 @@ reference :
 
 
 reference :
-
-> https://han.gl/PGijR (단축 url)
->
-> https://url.kr/ybz53s
->
-> https://velog.io/@ellyheetov/Shallow-Copy-VS-Deep-Copy
->
-> https://url.kr/obzxg7
->
-> https://hanamon.kr/javascript-shallow-copy-deep-copy/
->
-> https://url.kr/opd9a6
->
-> Object.assign : https://pro-self-studier.tistory.com/21
+> https://han.gl/PGijR  
+> https://url.kr/ybz53s  
+> https://velog.io/@ellyheetov/Shallow-Copy-VS-Deep-Copy  
+> https://url.kr/obzxg7  
+> https://hanamon.kr/javascript-shallow-copy-deep-copy/  
+> https://url.kr/opd9a6  
+> Object.assign : https://pro-self-studier.tistory.com/21  
