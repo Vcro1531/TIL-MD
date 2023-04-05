@@ -1,4 +1,4 @@
 # TIL-MD
 
 Today I Learned
-Organize with Typora
+Organize with Bear
